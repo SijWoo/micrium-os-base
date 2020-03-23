@@ -54,7 +54,7 @@
 */
 
 #define    MICRIUM_SOURCE
-#include  "/usbd_core.h"
+#include  "usbd_core.h"
 #include  "usbd_drv_lpcxxxx.h"
 
 /*
