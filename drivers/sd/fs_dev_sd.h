@@ -65,7 +65,7 @@
 #include  "../../Source/fs_dev.h"
 
 #if (FS_DEV_SD_SPI_CFG_CRC_EN == DEF_ENABLED)
-#include  <Source/edc_crc.h>
+#include  <edc_crc.h>
 #endif
 
 
